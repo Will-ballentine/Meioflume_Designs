@@ -9,3 +9,5 @@ The meioflume is a small scale flow chamber designed to enable the interstitial 
 - Plastic Quick-Turn 3-Way Stopcock Valve (2x)
 - 316 Stainless Steel Socket Head Screw, 6-32 Thread Size, 1/4" Long (4x)
 - Dow Corning High Vacuum Grease
+
+This reposatory is an accompaniment to the aticle *The Meioflume: a new method for observing the interstitial behavior of meiofauna* (in prep)
